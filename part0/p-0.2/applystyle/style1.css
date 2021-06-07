@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(226, 174, 174);
+    text-align: center;
+  text-shadow: 3px 3px 1px rgb(68, 34, 34);
+  }
+  p
+  {
+  font-color : rgb(236, 184, 236);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  body {
+    background-color: rgb(69, 97, 107);
+  }
+  
